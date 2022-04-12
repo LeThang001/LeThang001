@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeThang001
-- 👀 Tôi quan tâm đến web developer
-- 🌱 Tôi hiện đang học Js, PHP, C++
-- 📫 Làm thế nào để liên hệ với tôi discord: !?#9999
+- 👀 I'm interested in web developer
+- 🌱 I'm currently studying Js, PHP, C++
+- 📫 How to contact me discord: !?#9999
 
 
 
